@@ -1,0 +1,15 @@
+{
+  "name": "Tapestry — scripture, spoken",
+  "short_name": "Tapestry",
+  "description": "A personal scripture collection and audio playback app.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#EDEAE2",
+  "theme_color": "#8C3A1E",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
