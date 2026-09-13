@@ -1,7 +1,0 @@
-{
-  "name": "tapestry-functions",
-  "private": true,
-  "dependencies": {
-    "@andresaya/edge-tts": "^1.2.0"
-  }
-}
